@@ -7,11 +7,25 @@
 
 ## How does it work?
 
-### Parts:
-- `get_follower_list.py`: Downloads the list of followers
-- `get_profiles_data.py`: Get the name, description and the first two tweets for each profile
-- `reviewer_frontend`: A UI to rapidly mark the profiles as `keep` or `unfollow`
-- `bulk_unfollow.py`: Unfollows all accounts you are following except the ones `keep_list.txt`
+1. *Downloads the list of accounts you are following*
+
+- Go to `get_follower_list.py`, update the username and password. This script will download your following list in `followers_list.txt`
+
+2. *Get profiles data*
+
+- Then you collect the name, description and the first two tweets for each profile in `followers_list.txt`. The output is saved in `following_data.json`
+
+3. *Sort through the profiles*
+- First copy `following_data.json` to `reviewer_frontend/data.json`
+- Then `cd reviewer_frontend`
+- `npm install`
+- `npm run dev`
+Go to `http://localhost:3000` and you'll be able to mark profiles ot unfollow by pressing `u` and profiles to keep by pressing `k`. Can sort through 500 profiles in 10 minutes.
+- Click download sorted data button to get the marked profiles
+ 
+4. *Unfollow the marked profiles in bulk*
+- Run `bulk_unfollow.py` to unfollows all accounts you are following except the ones `keep_list.txt`
+
 
 ## How to run it on a server?
 - Install `xvfb` virtual display
