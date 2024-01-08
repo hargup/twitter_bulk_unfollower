@@ -1,0 +1,118 @@
+name,url,description,readme_url,last_updated,stars
+.emacs.d,https://github.com/hargup/.emacs.d,Emacs configuration (adapted from https://github.com/suvratapte/dot-emacs-dot-d),https://api.github.com/repos/hargup/.emacs.d/contents/README.md,2020-07-27T04:13:42Z,0
+2014-app-developer-survey,https://github.com/hargup/2014-app-developer-survey,Code for analysis of CIS's 2014 app developer survey,https://api.github.com/repos/hargup/2014-app-developer-survey/contents/README.md,2017-03-29T12:50:45Z,0
+afra,https://github.com/hargup/afra,Genome Annotation for the Masses,https://api.github.com/repos/hargup/afra/contents/README.md,2014-12-28T13:02:16Z,0
+ant,https://github.com/hargup/ant,Advanced Numerical Techniques,https://api.github.com/repos/hargup/ant/contents/README.md,2015-04-22T14:50:53Z,1
+aosd,https://github.com/hargup/aosd,Amusing OurSelves to Death summary,https://api.github.com/repos/hargup/aosd/contents/README.md,2015-05-06T13:42:50Z,0
+app_template_node,https://github.com/hargup/app_template_node,,https://api.github.com/repos/hargup/app_template_node/contents/README.md,2023-06-07T19:06:00Z,1
+autocrop,https://github.com/hargup/autocrop,:relieved: Automatically detects and crops faces from batches of pictures.,https://api.github.com/repos/hargup/autocrop/contents/README.md,2023-06-07T19:06:11Z,1
+awesome-biology,https://github.com/hargup/awesome-biology,Curated list of resources for Biology.,https://api.github.com/repos/hargup/awesome-biology/contents/README.md,2014-09-19T07:55:11Z,0
+awesome-machine-learning,https://github.com/hargup/awesome-machine-learning,"A curated list of awesome Machine Learning frameworks, libraries and software.",https://api.github.com/repos/hargup/awesome-machine-learning/contents/README.md,2015-12-25T07:06:58Z,0
+awesome-python,https://github.com/hargup/awesome-python,"A curated list of awesome Python frameworks, libraries and software",https://api.github.com/repos/hargup/awesome-python/contents/README.md,2015-10-08T16:54:39Z,0
+awesome_tech_intersection_law,https://github.com/hargup/awesome_tech_intersection_law,List of Organizations working on the intersection of Technology and Law,https://api.github.com/repos/hargup/awesome_tech_intersection_law/contents/README.md,2016-09-15T21:24:44Z,0
+backstage,https://github.com/hargup/backstage,Backstage is an open platform for building developer portals,https://api.github.com/repos/hargup/backstage/contents/README.md,2023-06-07T19:07:13Z,1
+basic-github-bot,https://github.com/hargup/basic-github-bot,,https://api.github.com/repos/hargup/basic-github-bot/contents/README.md,2023-03-25T08:27:27Z,0
+bigbang,https://github.com/hargup/bigbang,Scientific analysis of collaborative communities,https://api.github.com/repos/hargup/bigbang/contents/README.md,2016-05-16T06:46:20Z,0
+bioinformatics,https://github.com/hargup/bioinformatics,,https://api.github.com/repos/hargup/bioinformatics/contents/README.md,2014-10-08T20:08:12Z,0
+bioinformatics-bechmarks,https://github.com/hargup/bioinformatics-bechmarks,,https://api.github.com/repos/hargup/bioinformatics-bechmarks/contents/README.md,2014-10-08T21:16:07Z,0
+blog,https://github.com/hargup/blog,,https://api.github.com/repos/hargup/blog/contents/README.md,2014-07-02T09:55:24Z,0
+bookmarks,https://github.com/hargup/bookmarks,,https://api.github.com/repos/hargup/bookmarks/contents/README.md,2015-05-17T21:12:23Z,0
+chai,https://github.com/hargup/chai,Python tool to help book tickets on the Indian Railways,https://api.github.com/repos/hargup/chai/contents/README.md,2015-04-28T16:42:09Z,1
+clean_the_doc,https://github.com/hargup/clean_the_doc,,https://api.github.com/repos/hargup/clean_the_doc/contents/README.md,2022-11-28T16:23:54Z,2
+computer_vision,https://github.com/hargup/computer_vision,,https://api.github.com/repos/hargup/computer_vision/contents/README.md,2014-10-19T05:27:50Z,0
+conda-build,https://github.com/hargup/conda-build,Commands and tools for building conda packages,https://api.github.com/repos/hargup/conda-build/contents/README.md,2015-05-07T12:19:18Z,0
+conda-recipes,https://github.com/hargup/conda-recipes,build and test recipes for conda,https://api.github.com/repos/hargup/conda-recipes/contents/README.md,2021-11-18T10:28:19Z,0
+contractx,https://github.com/hargup/contractx,"Notes from edX course ""Contract Law: From Trust to Promise to Contract""",https://api.github.com/repos/hargup/contractx/contents/README.md,2023-12-26T12:48:55Z,0
+covidsupport,https://github.com/hargup/covidsupport,,https://api.github.com/repos/hargup/covidsupport/contents/README.md,2021-06-16T20:43:54Z,5
+diff_pricing_cp,https://github.com/hargup/diff_pricing_cp,A compilation of responses on Differential Pricing Consultation Paper by TRAI,https://api.github.com/repos/hargup/diff_pricing_cp/contents/README.md,2023-01-28T20:55:24Z,0
+django-haystack,https://github.com/hargup/django-haystack,Modular search for Django,https://api.github.com/repos/hargup/django-haystack/contents/README.md,2017-05-30T07:08:10Z,0
+do.it,https://github.com/hargup/do.it,Collaborative To-Do list,https://api.github.com/repos/hargup/do.it/contents/README.md,2018-08-06T13:03:16Z,0
+docker-diffusers-api,https://github.com/hargup/docker-diffusers-api,"Diffusers / Stable Diffusion in docker with a REST API, supporting various models, pipelines & schedulers.",https://api.github.com/repos/hargup/docker-diffusers-api/contents/README.md,2022-12-06T02:36:16Z,0
+dotfiles,https://github.com/hargup/dotfiles,,https://api.github.com/repos/hargup/dotfiles/contents/README.md,2023-01-28T21:08:22Z,0
+Dotfiles-other,https://github.com/hargup/Dotfiles-other,A bunch of configuration files for other programs..,https://api.github.com/repos/hargup/Dotfiles-other/contents/README.md,2017-08-19T10:35:34Z,0
+Dotfiles-vim,https://github.com/hargup/Dotfiles-vim,The helpful plugin and setting of VIM !,https://api.github.com/repos/hargup/Dotfiles-vim/contents/README.md,2015-03-06T17:07:42Z,0
+dynamics_sim,https://github.com/hargup/dynamics_sim,A generic evolutionary game theory simulation library,https://api.github.com/repos/hargup/dynamics_sim/contents/README.md,2015-01-01T08:33:14Z,0
+eklavya-ros-pkg,https://github.com/hargup/eklavya-ros-pkg,We are Autonomous Ground Vehicle Research Group of IIT Kharagpur. We are aspiring to compete in the Intelligent Ground Vehicle Competition 2013 with our vehicle - Eklavya,https://api.github.com/repos/hargup/eklavya-ros-pkg/contents/README.md,2013-09-27T05:11:19Z,0
+elastdocker,https://github.com/hargup/elastdocker,,https://api.github.com/repos/hargup/elastdocker/contents/README.md,2021-03-23T04:57:49Z,0
+eme_diversity_analysis,https://github.com/hargup/eme_diversity_analysis,,https://api.github.com/repos/hargup/eme_diversity_analysis/contents/README.md,2016-07-04T10:40:45Z,0
+examples,https://github.com/hargup/examples,Jina examples and demos to help you get started,https://api.github.com/repos/hargup/examples/contents/README.md,2023-06-07T19:06:05Z,1
+facepy,https://github.com/hargup/facepy,Facepy makes it really easy to use Facebook's Graph API,https://api.github.com/repos/hargup/facepy/contents/README.md,2016-05-07T18:42:45Z,0
+fatml_iiit_a,https://github.com/hargup/fatml_iiit_a,"Notes from Fairness, Accountability and Transparency in Machine Learning winter school at IIIT Allahabad",https://api.github.com/repos/hargup/fatml_iiit_a/contents/README.md,2016-12-12T04:37:48Z,3
+freezing-batman,https://github.com/hargup/freezing-batman,AGV,https://api.github.com/repos/hargup/freezing-batman/contents/README.md,2014-05-28T04:57:03Z,0
+gazette-of-india,https://github.com/hargup/gazette-of-india,,https://api.github.com/repos/hargup/gazette-of-india/contents/README.md,2017-07-14T16:10:22Z,1
+ga_curve_fitting,https://github.com/hargup/ga_curve_fitting,,https://api.github.com/repos/hargup/ga_curve_fitting/contents/README.md,2016-09-16T12:38:36Z,0
+gene-simulation,https://github.com/hargup/gene-simulation,,https://api.github.com/repos/hargup/gene-simulation/contents/README.md,2016-10-13T18:46:54Z,1
+getting-started-nextjs,https://github.com/hargup/getting-started-nextjs,,https://api.github.com/repos/hargup/getting-started-nextjs/contents/README.md,2023-06-07T19:05:01Z,1
+ghp-import,https://github.com/hargup/ghp-import,Easily import docs to your gh-pages branch.,https://api.github.com/repos/hargup/ghp-import/contents/README.md,2020-08-04T18:33:38Z,0
+git-sandbox,https://github.com/hargup/git-sandbox,practicing git commands,https://api.github.com/repos/hargup/git-sandbox/contents/README.md,2014-10-17T11:20:27Z,0
+git_tutorial,https://github.com/hargup/git_tutorial,,https://api.github.com/repos/hargup/git_tutorial/contents/README.md,2016-09-16T12:45:09Z,0
+gkeepapi,https://github.com/hargup/gkeepapi,An unofficial client for the Google Keep API.,https://api.github.com/repos/hargup/gkeepapi/contents/README.md,2023-02-08T15:03:27Z,0
+GPT-einops,https://github.com/hargup/GPT-einops,,https://api.github.com/repos/hargup/GPT-einops/contents/README.md,2023-03-21T05:55:08Z,0
+gsheet_experiment,https://github.com/hargup/gsheet_experiment,Ping a route to increament counter in a google sheet,https://api.github.com/repos/hargup/gsheet_experiment/contents/README.md,2021-04-11T15:08:55Z,2
+HackU,https://github.com/hargup/HackU,Our hack for the Yahoo HackU 2013 IIT Kharagpur,https://api.github.com/repos/hargup/HackU/contents/README.md,2016-09-14T22:06:17Z,0
+hargup.github.io,https://github.com/hargup/hargup.github.io,My personal website at ,https://api.github.com/repos/hargup/hargup.github.io/contents/README.md,2022-01-22T01:58:31Z,0
+helpshift-webhooks-examples,https://github.com/hargup/helpshift-webhooks-examples,Example code for using Helpshift Webhooks,https://api.github.com/repos/hargup/helpshift-webhooks-examples/contents/README.md,2020-02-28T14:11:29Z,0
+instant-apps,https://github.com/hargup/instant-apps,Your search box is now an app store! 🎉,https://api.github.com/repos/hargup/instant-apps/contents/README.md,2023-06-07T19:07:15Z,1
+intern_diary_2015,https://github.com/hargup/intern_diary_2015,Diary for my internship at Continuum Analytics,https://api.github.com/repos/hargup/intern_diary_2015/contents/README.md,2017-06-07T13:57:51Z,0
+intern_diary_2016,https://github.com/hargup/intern_diary_2016,Diary for my 2016 Summer internship at CIS-India http://cis-india.org/,https://api.github.com/repos/hargup/intern_diary_2016/contents/README.md,2018-02-27T16:16:58Z,2
+judis-re,https://github.com/hargup/judis-re,Automatically exported from code.google.com/p/judis-re,https://api.github.com/repos/hargup/judis-re/contents/README.md,2016-08-04T09:18:56Z,0
+klug.github.io,https://github.com/hargup/klug.github.io,KLUG's Website.,https://api.github.com/repos/hargup/klug.github.io/contents/README.md,2013-08-16T14:10:31Z,0
+laws_of_india,https://github.com/hargup/laws_of_india,,https://api.github.com/repos/hargup/laws_of_india/contents/README.md,2020-05-25T10:29:55Z,1
+masters_project,https://github.com/hargup/masters_project,Repository for Master's Project,https://api.github.com/repos/hargup/masters_project/contents/README.md,2016-11-16T18:49:36Z,1
+media,https://github.com/hargup/media,,https://api.github.com/repos/hargup/media/contents/README.md,2018-10-10T06:49:37Z,1
+metakgp-wiki,https://github.com/hargup/metakgp-wiki,,https://api.github.com/repos/hargup/metakgp-wiki/contents/README.md,2017-06-15T15:27:01Z,0
+mfqp,https://github.com/hargup/mfqp,Question paper search,https://api.github.com/repos/hargup/mfqp/contents/README.md,2017-01-09T16:05:55Z,0
+misc,https://github.com/hargup/misc,Repo with random things which doesn't deserve a seperate repo,https://api.github.com/repos/hargup/misc/contents/README.md,2023-09-09T15:37:43Z,0
+neera_default_search_extension,https://github.com/hargup/neera_default_search_extension,Firefox add-on to add Qwant as the default search engine and open links in same tab without any additional fluff.,https://api.github.com/repos/hargup/neera_default_search_extension/contents/README.md,2021-04-15T18:18:15Z,0
+nodejs-hello-world,https://github.com/hargup/nodejs-hello-world,Hello World example,https://api.github.com/repos/hargup/nodejs-hello-world/contents/README.md,2023-06-07T19:06:15Z,1
+numba,https://github.com/hargup/numba,NumPy aware dynamic Python compiler using LLVM,https://api.github.com/repos/hargup/numba/contents/README.md,2015-06-17T18:44:15Z,0
+numerical-mooc,https://github.com/hargup/numerical-mooc,A collaborative educational initiative in computational science and engineering.,https://api.github.com/repos/hargup/numerical-mooc/contents/README.md,2015-04-08T18:17:34Z,0
+paper-spray,https://github.com/hargup/paper-spray,List of interesting papers to read,https://api.github.com/repos/hargup/paper-spray/contents/README.md,2016-08-02T20:57:18Z,0
+papers_i_read,https://github.com/hargup/papers_i_read,Summaries of the papers I read,https://api.github.com/repos/hargup/papers_i_read/contents/README.md,2015-10-28T19:43:55Z,0
+planet.sympy.org,https://github.com/hargup/planet.sympy.org,Contents of planet.sympy.org,https://api.github.com/repos/hargup/planet.sympy.org/contents/README.md,2014-05-28T16:48:17Z,0
+posts,https://github.com/hargup/posts,,https://api.github.com/repos/hargup/posts/contents/README.md,2015-04-21T20:24:15Z,0
+pypi-conda-builds,https://github.com/hargup/pypi-conda-builds,,https://api.github.com/repos/hargup/pypi-conda-builds/contents/README.md,2015-06-29T17:47:15Z,0
+python-classes,https://github.com/hargup/python-classes,,https://api.github.com/repos/hargup/python-classes/contents/README.md,2023-01-11T16:08:17Z,5
+ReactSSRExperiment,https://github.com/hargup/ReactSSRExperiment,Experimenting with Server Side Rendering in React,https://api.github.com/repos/hargup/ReactSSRExperiment/contents/README.md,2023-06-07T19:07:09Z,2
+resume,https://github.com/hargup/resume,Resume,https://api.github.com/repos/hargup/resume/contents/README.md,2016-09-02T07:36:32Z,0
+sample_clojure,https://github.com/hargup/sample_clojure,A simple CRUD app in Clojure.,https://api.github.com/repos/hargup/sample_clojure/contents/README.md,2021-01-28T15:25:58Z,0
+selenium-python-xvfb,https://github.com/hargup/selenium-python-xvfb,Dockerfile for python Selenium container,https://api.github.com/repos/hargup/selenium-python-xvfb/contents/README.md,2019-03-02T15:57:40Z,0
+sequenceserver,https://github.com/hargup/sequenceserver,Intuitive local web frontend for sequence BLAST (www search form),https://api.github.com/repos/hargup/sequenceserver/contents/README.md,2015-04-28T13:24:01Z,0
+server-template-node,https://github.com/hargup/server-template-node,,https://api.github.com/repos/hargup/server-template-node/contents/README.md,2021-01-28T16:20:01Z,0
+serverless-template-dreambooth-training,https://github.com/hargup/serverless-template-dreambooth-training,This repo is the basic framework for training Dreambooth Stable Diffusion in production on Banana's serverless GPU platform,https://api.github.com/repos/hargup/serverless-template-dreambooth-training/contents/README.md,2022-12-04T02:19:38Z,0
+serverless-template-stable-diffusion,https://github.com/hargup/serverless-template-stable-diffusion,Stable Diffusion v2.0 optimized for banana.dev,https://api.github.com/repos/hargup/serverless-template-stable-diffusion/contents/README.md,2023-06-07T19:05:05Z,1
+sicp,https://github.com/hargup/sicp,My solutions to the sicp problems,https://api.github.com/repos/hargup/sicp/contents/README.md,2014-03-16T10:59:56Z,0
+slack-export-viewer,https://github.com/hargup/slack-export-viewer,A Slack Export archive viewer that allows you to easily view and share your Slack team's export,https://api.github.com/repos/hargup/slack-export-viewer/contents/README.md,2017-03-17T17:31:05Z,0
+source_code_ktj,https://github.com/hargup/source_code_ktj,"Repository for the problems of the event ""Source Code"" at Kshitij 2016",https://api.github.com/repos/hargup/source_code_ktj/contents/README.md,2016-01-24T17:30:32Z,0
+stackexchange-dump-to-postgres,https://github.com/hargup/stackexchange-dump-to-postgres,Python scripts to import StackExchange data dump into Postgres DB.,https://api.github.com/repos/hargup/stackexchange-dump-to-postgres/contents/README.md,2021-05-03T09:20:30Z,0
+sympy,https://github.com/hargup/sympy,A computer algebra system written in pure Python,https://api.github.com/repos/hargup/sympy/contents/README.md,2014-11-23T14:03:06Z,0
+sympy-paper,https://github.com/hargup/sympy-paper,Paper for SymPy,https://api.github.com/repos/hargup/sympy-paper/contents/README.md,2016-04-13T21:15:46Z,0
+takoyaki,https://github.com/hargup/takoyaki,Fuzzy clustering interface prototype.,https://api.github.com/repos/hargup/takoyaki/contents/README.md,2021-01-23T20:25:50Z,0
+test-fly-io,https://github.com/hargup/test-fly-io,,https://api.github.com/repos/hargup/test-fly-io/contents/README.md,2022-02-26T18:49:22Z,0
+time-tracker-web-nxt,https://github.com/hargup/time-tracker-web-nxt,A time tracker application brought to you by ClojureScript with all the goodness of re-frame. This is the front-end to https://github.com/nilenso/time-tracker.,https://api.github.com/repos/hargup/time-tracker-web-nxt/contents/README.md,2018-03-22T07:27:51Z,0
+twitter-mass-unfollow,https://github.com/hargup/twitter-mass-unfollow,A simple (configurable) way to mass unfollow your followings on Twitter,https://api.github.com/repos/hargup/twitter-mass-unfollow/contents/README.md,2023-09-11T01:19:10Z,0
+twitter-search-covid19,https://github.com/hargup/twitter-search-covid19,Twitter Search for COVID19 resources in your city,https://api.github.com/repos/hargup/twitter-search-covid19/contents/README.md,2021-04-20T21:47:04Z,0
+unicode_to_shusha,https://github.com/hargup/unicode_to_shusha,Converts hindi text in shusha to ascii shusha font,https://api.github.com/repos/hargup/unicode_to_shusha/contents/README.md,2014-04-15T06:51:39Z,0
+whgi-indic,https://github.com/hargup/whgi-indic,,https://api.github.com/repos/hargup/whgi-indic/contents/README.md,2016-06-23T12:12:54Z,1
+WIGI,https://github.com/hargup/WIGI,"Wikipedia Gender Index (WIGI), uses Wikidata to produce gender-related statistic on Wikipedia Biographies",https://api.github.com/repos/hargup/WIGI/contents/README.md,2015-05-04T17:21:52Z,0
+WIGI-website,https://github.com/hargup/WIGI-website,,https://api.github.com/repos/hargup/WIGI-website/contents/README.md,2019-02-15T02:24:00Z,9
+Wikidata-Toolkit,https://github.com/hargup/Wikidata-Toolkit,,https://api.github.com/repos/hargup/Wikidata-Toolkit/contents/README.md,2015-12-16T12:24:27Z,0
+work_logs,https://github.com/hargup/work_logs,,https://api.github.com/repos/hargup/work_logs/contents/README.md,2016-08-08T09:06:51Z,0
+blog,https://github.com/felvin-search/blog,https://blog.felvin.com,https://api.github.com/repos/felvin-search/blog/contents/README.md,2023-01-14T11:19:37Z,3
+browser-extensions,https://github.com/felvin-search/browser-extensions,Contains browser extensions for Felvin search ,https://api.github.com/repos/felvin-search/browser-extensions/contents/README.md,2023-01-14T11:18:52Z,0
+cheat.sh,https://github.com/felvin-search/cheat.sh,the only cheat sheet you need,https://api.github.com/repos/felvin-search/cheat.sh/contents/README.md,2022-02-25T06:17:43Z,0
+cli,https://github.com/felvin-search/cli,,https://api.github.com/repos/felvin-search/cli/contents/README.md,2022-02-05T11:25:25Z,0
+codeReference-api,https://github.com/felvin-search/codeReference-api,API service that serves code snippets to Code Reference instant app,https://api.github.com/repos/felvin-search/codeReference-api/contents/README.md,2021-12-31T05:00:50Z,0
+codewiz,https://github.com/felvin-search/codewiz,Make ChatGPT your partner to improve your programming experience.,https://api.github.com/repos/felvin-search/codewiz/contents/README.md,2023-09-05T16:31:59Z,4
+core,https://github.com/felvin-search/core,,https://api.github.com/repos/felvin-search/core/contents/README.md,2022-02-05T11:24:59Z,0
+DocQues,https://github.com/felvin-search/DocQues,DocQues answers queries on longer and multiple documents build on GPT-Index and GPT-3,https://api.github.com/repos/felvin-search/DocQues/contents/README.md,2023-02-07T05:22:31Z,0
+docs,https://github.com/felvin-search/docs,Docs at Felvin,https://api.github.com/repos/felvin-search/docs/contents/README.md,2023-01-14T11:19:17Z,8
+extension-demo,https://github.com/felvin-search/extension-demo,Demo video for the instant apps browser extension,https://api.github.com/repos/felvin-search/extension-demo/contents/README.md,2022-03-04T05:15:56Z,0
+felvin-landing-page,https://github.com/felvin-search/felvin-landing-page,,https://api.github.com/repos/felvin-search/felvin-landing-page/contents/README.md,2022-11-23T06:46:17Z,0
+felvin.com-bugs,https://github.com/felvin-search/felvin.com-bugs,A place to report bugs regarding felvin.com,https://api.github.com/repos/felvin-search/felvin.com-bugs/contents/README.md,2021-12-28T19:26:11Z,0
+gpt-repository-loader,https://github.com/felvin-search/gpt-repository-loader,,https://api.github.com/repos/felvin-search/gpt-repository-loader/contents/README.md,2023-09-05T16:32:28Z,8
+instant-apps,https://github.com/felvin-search/instant-apps,Your search box is now an app store! 🎉,https://api.github.com/repos/felvin-search/instant-apps/contents/README.md,2023-10-17T07:56:32Z,93
+Instant-Apps-Browser-Extension,https://github.com/felvin-search/Instant-Apps-Browser-Extension,Injects Felvin Instant Apps into your Google Search Page according to your searched query!,https://api.github.com/repos/felvin-search/Instant-Apps-Browser-Extension/contents/README.md,2023-11-14T11:53:59Z,1
+nginx_conf,https://github.com/felvin-search/nginx_conf,,https://api.github.com/repos/felvin-search/nginx_conf/contents/README.md,2021-09-01T09:23:46Z,0
+react-pong,https://github.com/felvin-search/react-pong,:white_check_mark: A pong game React component,https://api.github.com/repos/felvin-search/react-pong/contents/README.md,2021-09-19T18:04:33Z,0
+token-count,https://github.com/felvin-search/token-count,,https://api.github.com/repos/felvin-search/token-count/contents/README.md,2023-12-26T09:32:16Z,19

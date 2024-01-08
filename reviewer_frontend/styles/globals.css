@@ -1,0 +1,39 @@
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100vh;
+  
+}
+
+.Box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  height: auto;
+  border: 1px solid #ccc;
+  background-color: #f2f2f2;
+  text-align: center;
+}
+
+@media (max-width: 600px) {
+  .App {
+    width: 75%;
+  }
+}
+
+.Buttons {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.Buttons button:first-child {
+  margin-right: auto;
+}
+
+.Buttons button:last-child {
+  margin-left: auto;
+}
