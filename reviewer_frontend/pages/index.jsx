@@ -4,7 +4,6 @@ import { Inter } from '@next/font/google'
 import React, { useEffect, useState } from 'react';
 import fileData from '../data.json';
 // import {TwitterTimelineEmbed} from 'react-twitter-embed';
-import { Timeline } from 'react-twitter-widgets'
 
 
 
@@ -97,11 +96,13 @@ function Item({ item }) {
       <h3>@{item.username}</h3>
       <p>{item.description}</p>
       <h4>First Two Tweets:</h4>
-      <ul>
-        {item.first_two_tweets.map((tweet, index) => (
-          <li key={index}>{tweet}</li>
-        ))}
-      </ul>
+      {item.first_two_tweets && (
+        <ul>
+          {item.first_two_tweets.map((tweet, index) => (
+            <li key={index}>{tweet}</li>
+          ))}
+        </ul>
+      )}
       <p>State: {item.state}</p>
     </div>
   );
